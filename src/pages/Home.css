@@ -1,0 +1,18 @@
+.header {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  justify-content: space-between;
+}
+.list li {
+  font-size: 20px;
+}
+
+.list a {
+  color: black;
+}
